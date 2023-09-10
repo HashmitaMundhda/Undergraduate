@@ -1,0 +1,548 @@
+2023-09-10 15:24:46,745 [main] INFO  bootstrap.driver - *********************************Welcome to Snakes & Ladders by Hashmita Mundhda******************************
+2023-09-10 15:24:46,746 [main] INFO  bootstrap.driver - 4 players are playing 
+2023-09-10 15:24:46,750 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,750 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,750 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,750 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,751 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 5.
+2023-09-10 15:24:46,751 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 7.
+2023-09-10 15:24:46,751 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,751 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,752 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,752 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,752 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,752 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,752 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 10.
+2023-09-10 15:24:46,752 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 6.
+2023-09-10 15:24:46,752 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 5.
+2023-09-10 15:24:46,753 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 5.
+2023-09-10 15:24:46,753 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,753 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 6.
+2023-09-10 15:24:46,753 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,753 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 5.
+2023-09-10 15:24:46,754 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,753 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,754 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 6.
+2023-09-10 15:24:46,754 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 3.
+2023-09-10 15:24:46,754 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,754 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,754 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,754 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 5.
+2023-09-10 15:24:46,754 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 4.
+2023-09-10 15:24:46,754 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,754 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 12.
+2023-09-10 15:24:46,755 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 7.
+2023-09-10 15:24:46,755 [main] INFO  domain.board - Chetna climbs ladder from 4 to 14
+2023-09-10 15:24:46,755 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,755 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,755 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,755 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,755 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,755 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 8.
+2023-09-10 15:24:46,755 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,755 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 9.
+2023-09-10 15:24:46,758 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,759 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 6.
+2023-09-10 15:24:46,758 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,759 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,758 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,759 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,771 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,772 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 12.
+2023-09-10 15:24:46,772 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,772 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,772 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,773 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 4.
+2023-09-10 15:24:46,772 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 3.
+2023-09-10 15:24:46,772 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,772 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,774 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,774 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,774 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,775 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,775 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 5.
+2023-09-10 15:24:46,775 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,774 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 9.
+2023-09-10 15:24:46,775 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 8.
+2023-09-10 15:24:46,775 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,776 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,776 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,776 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,776 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 4.
+2023-09-10 15:24:46,776 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 10.
+2023-09-10 15:24:46,776 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,776 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 7.
+2023-09-10 15:24:46,776 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 9.
+2023-09-10 15:24:46,777 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,777 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,777 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,777 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,788 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 3.
+2023-09-10 15:24:46,788 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,788 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,789 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,789 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,789 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,789 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,789 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 5.
+2023-09-10 15:24:46,789 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,789 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,789 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,789 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 6.
+2023-09-10 15:24:46,790 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,790 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,790 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,790 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 6.
+2023-09-10 15:24:46,790 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 2.
+2023-09-10 15:24:46,790 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,790 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 10.
+2023-09-10 15:24:46,790 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,790 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,790 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,790 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,790 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,790 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,790 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,790 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,791 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 8.
+2023-09-10 15:24:46,791 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,791 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,791 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,791 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,791 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,791 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 9.
+2023-09-10 15:24:46,791 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 7.
+2023-09-10 15:24:46,791 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 8.
+2023-09-10 15:24:46,792 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,792 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,792 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 10.
+2023-09-10 15:24:46,792 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,792 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,792 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 11.
+2023-09-10 15:24:46,792 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 9.
+2023-09-10 15:24:46,792 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,793 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,793 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,793 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,793 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,793 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 11.
+2023-09-10 15:24:46,794 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 5.
+2023-09-10 15:24:46,793 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,793 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 10.
+2023-09-10 15:24:46,794 [main] INFO  domain.board - Chetna climbs ladder from 40 to 59
+2023-09-10 15:24:46,794 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,794 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,794 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,794 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,795 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 7.
+2023-09-10 15:24:46,795 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,794 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 11.
+2023-09-10 15:24:46,795 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 10.
+2023-09-10 15:24:46,795 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,795 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,795 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,796 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,795 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,795 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 4.
+2023-09-10 15:24:46,796 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 5.
+2023-09-10 15:24:46,796 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 8.
+2023-09-10 15:24:46,797 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,797 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,797 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,797 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 10.
+2023-09-10 15:24:46,797 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,797 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,797 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 8.
+2023-09-10 15:24:46,797 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 10.
+2023-09-10 15:24:46,798 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,798 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,798 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,798 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 6.
+2023-09-10 15:24:46,798 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,798 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,798 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 8.
+2023-09-10 15:24:46,798 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 8.
+2023-09-10 15:24:46,799 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,799 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,799 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,799 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,799 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 9.
+2023-09-10 15:24:46,799 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,799 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 11.
+2023-09-10 15:24:46,799 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 5.
+2023-09-10 15:24:46,799 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,799 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,799 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,800 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,800 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,800 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,800 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 11.
+2023-09-10 15:24:46,800 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 8.
+2023-09-10 15:24:46,800 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,800 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,800 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,800 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,801 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 4.
+2023-09-10 15:24:46,801 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 10.
+2023-09-10 15:24:46,801 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 4.
+2023-09-10 15:24:46,801 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,801 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,802 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,801 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,801 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,802 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 4.
+2023-09-10 15:24:46,802 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,802 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 9.
+2023-09-10 15:24:46,802 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 4.
+2023-09-10 15:24:46,803 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,803 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,803 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,803 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,803 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 10.
+2023-09-10 15:24:46,803 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 10.
+2023-09-10 15:24:46,803 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,803 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 10.
+2023-09-10 15:24:46,803 [main] INFO  domain.board - Snake Bites Hashmita from 62 to 19
+2023-09-10 15:24:46,804 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,804 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,804 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,804 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,804 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,804 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,804 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,804 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 2.
+2023-09-10 15:24:46,805 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,805 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,805 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,805 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,805 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 12.
+2023-09-10 15:24:46,805 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,805 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,805 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 11.
+2023-09-10 15:24:46,806 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,806 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 6.
+2023-09-10 15:24:46,806 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,806 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,806 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,806 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,806 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 9.
+2023-09-10 15:24:46,807 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 8.
+2023-09-10 15:24:46,807 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,807 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,807 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,807 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,807 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,808 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 8.
+2023-09-10 15:24:46,807 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,808 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 10.
+2023-09-10 15:24:46,808 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,809 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,809 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,809 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 6.
+2023-09-10 15:24:46,809 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,809 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 5.
+2023-09-10 15:24:46,809 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 4.
+2023-09-10 15:24:46,809 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 5.
+2023-09-10 15:24:46,810 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,810 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,810 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,810 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,810 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 5.
+2023-09-10 15:24:46,811 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 7.
+2023-09-10 15:24:46,810 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,810 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,811 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,811 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,812 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 4.
+2023-09-10 15:24:46,811 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,811 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 5.
+2023-09-10 15:24:46,811 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,812 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 9.
+2023-09-10 15:24:46,812 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 10.
+2023-09-10 15:24:46,813 [main] INFO  domain.board - Snake Bites Chetna from 87 to 24
+2023-09-10 15:24:46,813 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,813 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 4.
+2023-09-10 15:24:46,813 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,814 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,813 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,813 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,814 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,814 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 2.
+2023-09-10 15:24:46,815 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,815 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,815 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,815 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,815 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 5.
+2023-09-10 15:24:46,815 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,815 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 6.
+2023-09-10 15:24:46,815 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 8.
+2023-09-10 15:24:46,816 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,816 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,816 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 10.
+2023-09-10 15:24:46,816 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,816 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,816 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,816 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,816 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 7.
+2023-09-10 15:24:46,817 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,817 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,817 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,817 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,817 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,817 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 10.
+2023-09-10 15:24:46,817 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 5.
+2023-09-10 15:24:46,817 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,817 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,818 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,818 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,817 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,818 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 7.
+2023-09-10 15:24:46,818 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,818 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,818 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,818 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,818 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,818 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,818 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 7.
+2023-09-10 15:24:46,818 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 5.
+2023-09-10 15:24:46,818 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,819 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 11.
+2023-09-10 15:24:46,819 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,819 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,819 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,819 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,819 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,819 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,819 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,819 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,820 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,820 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,820 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 11.
+2023-09-10 15:24:46,820 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,820 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 3.
+2023-09-10 15:24:46,820 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,820 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,820 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 5.
+2023-09-10 15:24:46,820 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 10.
+2023-09-10 15:24:46,821 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,821 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,821 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,821 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,821 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 6.
+2023-09-10 15:24:46,821 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 10.
+2023-09-10 15:24:46,821 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 6.
+2023-09-10 15:24:46,821 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,821 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,822 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,822 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,822 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 11.
+2023-09-10 15:24:46,822 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,822 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,822 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 6.
+2023-09-10 15:24:46,822 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 5.
+2023-09-10 15:24:46,822 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,822 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,822 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,822 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 4.
+2023-09-10 15:24:46,822 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,822 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,823 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 6.
+2023-09-10 15:24:46,823 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 5.
+2023-09-10 15:24:46,823 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,823 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,823 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,823 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 6.
+2023-09-10 15:24:46,824 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 10.
+2023-09-10 15:24:46,823 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 9.
+2023-09-10 15:24:46,823 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,824 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,824 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,824 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,824 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,824 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,824 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 4.
+2023-09-10 15:24:46,824 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,825 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 9.
+2023-09-10 15:24:46,825 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 8.
+2023-09-10 15:24:46,825 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,825 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,825 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,825 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,826 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,826 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 6.
+2023-09-10 15:24:46,825 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 10.
+2023-09-10 15:24:46,825 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 9.
+2023-09-10 15:24:46,826 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,826 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,826 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 9.
+2023-09-10 15:24:46,826 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,826 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,826 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,827 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 4.
+2023-09-10 15:24:46,827 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 5.
+2023-09-10 15:24:46,827 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,827 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,827 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,827 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,827 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 11.
+2023-09-10 15:24:46,827 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,827 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,827 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 9.
+2023-09-10 15:24:46,828 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,828 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 6.
+2023-09-10 15:24:46,828 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,828 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 12.
+2023-09-10 15:24:46,828 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,828 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,828 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,828 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 6.
+2023-09-10 15:24:46,829 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,829 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 6.
+2023-09-10 15:24:46,829 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,829 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,829 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,829 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,829 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,829 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 11.
+2023-09-10 15:24:46,829 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,829 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,829 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,829 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,829 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 4.
+2023-09-10 15:24:46,830 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 7.
+2023-09-10 15:24:46,830 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 11.
+2023-09-10 15:24:46,830 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 2.
+2023-09-10 15:24:46,830 [main] INFO  domain.board - Snake Bites Yashita from 95 to 75
+2023-09-10 15:24:46,830 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,830 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,830 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,830 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,830 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,830 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 10.
+2023-09-10 15:24:46,830 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 5.
+2023-09-10 15:24:46,830 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 10.
+2023-09-10 15:24:46,831 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,831 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 5.
+2023-09-10 15:24:46,831 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,831 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,831 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,831 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 5.
+2023-09-10 15:24:46,831 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 10.
+2023-09-10 15:24:46,831 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,831 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,831 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,831 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,831 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,831 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 7.
+2023-09-10 15:24:46,831 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 3.
+2023-09-10 15:24:46,831 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 4.
+2023-09-10 15:24:46,831 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,832 [main] INFO  domain.board - Snake Bites Dharmesh from 87 to 24
+2023-09-10 15:24:46,832 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,832 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,832 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,832 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,832 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 9.
+2023-09-10 15:24:46,832 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,832 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,832 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,832 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,832 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 10.
+2023-09-10 15:24:46,832 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,832 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,832 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 9.
+2023-09-10 15:24:46,832 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,832 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 4.
+2023-09-10 15:24:46,832 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 6.
+2023-09-10 15:24:46,833 [main] INFO  domain.board - Chetna climbs ladder from 71 to 91
+2023-09-10 15:24:46,833 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,833 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,833 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,833 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,833 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 7.
+2023-09-10 15:24:46,833 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,833 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,833 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 9.
+2023-09-10 15:24:46,833 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,833 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,833 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,833 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 3.
+2023-09-10 15:24:46,833 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,834 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 4.
+2023-09-10 15:24:46,833 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 6.
+2023-09-10 15:24:46,833 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 7.
+2023-09-10 15:24:46,834 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,834 [pool-1-thread-2] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,834 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,834 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,834 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,834 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 7.
+2023-09-10 15:24:46,834 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 6.
+2023-09-10 15:24:46,834 [pool-1-thread-2] INFO  domain.Player - Dharmesh rolled 6.
+2023-09-10 15:24:46,834 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,834 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,834 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 6.
+2023-09-10 15:24:46,834 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,835 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 4.
+2023-09-10 15:24:46,834 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,834 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 8.
+2023-09-10 15:24:46,835 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 7.
+2023-09-10 15:24:46,835 [main] INFO  domain.board - Snake Bites Chetna from 99 to 78
+2023-09-10 15:24:46,835 [pool-1-thread-4] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,835 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,835 [pool-1-thread-2] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,835 [pool-1-thread-2] INFO  domain.Player - Chetna rolled 8.
+2023-09-10 15:24:46,835 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,835 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 6.
+2023-09-10 15:24:46,835 [pool-1-thread-4] INFO  domain.Player - Hashmita rolled 9.
+2023-09-10 15:24:46,835 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 5.
+2023-09-10 15:24:46,835 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,835 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 12.
+2023-09-10 15:24:46,835 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,835 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 10.
+2023-09-10 15:24:46,835 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,836 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 5.
+2023-09-10 15:24:46,835 [pool-1-thread-4] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,836 [pool-1-thread-4] INFO  domain.Player - Yashita rolled 9.
+2023-09-10 15:24:46,836 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,836 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,836 [pool-1-thread-3] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,836 [pool-1-thread-1] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,836 [pool-1-thread-3] INFO  domain.Player - Yashita rolled 5.
+2023-09-10 15:24:46,836 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 5.
+2023-09-10 15:24:46,836 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 6.
+2023-09-10 15:24:46,836 [pool-1-thread-1] INFO  domain.Player - Dharmesh rolled 8.
+2023-09-10 15:24:46,836 [pool-1-thread-3] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,837 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,837 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 4.
+2023-09-10 15:24:46,837 [pool-1-thread-3] INFO  domain.Player - Hashmita rolled 9.
+2023-09-10 15:24:46,837 [pool-1-thread-1] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,837 [pool-1-thread-1] INFO  domain.Player - Chetna rolled 2.
+2023-09-10 15:24:46,836 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,837 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 9.
+2023-09-10 15:24:46,837 [main] INFO  domain.board - Snake Bites Chetna from 87 to 24
+2023-09-10 15:24:46,837 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,837 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 11.
+2023-09-10 15:24:46,837 [pool-1-thread-4] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,837 [pool-1-thread-3] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,837 [pool-1-thread-4] INFO  domain.Player - Chetna rolled 11.
+2023-09-10 15:24:46,837 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,837 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 11.
+2023-09-10 15:24:46,837 [pool-1-thread-3] INFO  domain.Player - Dharmesh rolled 4.
+2023-09-10 15:24:46,837 [pool-1-thread-2] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,837 [pool-1-thread-1] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,838 [pool-1-thread-1] INFO  domain.Player - Yashita rolled 8.
+2023-09-10 15:24:46,837 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,838 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 7.
+2023-09-10 15:24:46,837 [pool-1-thread-2] INFO  domain.Player - Hashmita rolled 4.
+2023-09-10 15:24:46,837 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,838 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 10.
+2023-09-10 15:24:46,838 [pool-1-thread-1] INFO  domain.Player - Hashmita's turn: 
+2023-09-10 15:24:46,838 [pool-1-thread-2] INFO  domain.Player - Yashita's turn: 
+2023-09-10 15:24:46,838 [pool-1-thread-2] INFO  domain.Player - Yashita rolled 10.
+2023-09-10 15:24:46,838 [pool-1-thread-4] INFO  domain.Player - Dharmesh's turn: 
+2023-09-10 15:24:46,838 [pool-1-thread-3] INFO  domain.Player - Chetna's turn: 
+2023-09-10 15:24:46,838 [pool-1-thread-3] INFO  domain.Player - Chetna rolled 6.
+2023-09-10 15:24:46,838 [pool-1-thread-1] INFO  domain.Player - Hashmita rolled 10.
+2023-09-10 15:24:46,838 [pool-1-thread-4] INFO  domain.Player - Dharmesh rolled 8.
+2023-09-10 15:24:46,838 [main] INFO  bootstrap.driver - Yashita Wins!
