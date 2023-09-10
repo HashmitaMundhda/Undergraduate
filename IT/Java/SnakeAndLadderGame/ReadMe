@@ -1,1 +1,2 @@
-Designed and implemented a multiplayer Snake and Ladder Game featuring automated gameplay. The game records the final results in the "game_final_result.log" file. Players input their names, and the dice rolls are automated to progress through the game. The final positions are determined considering the presence of snakes on the board.
+Designed and implemented a multiplayer Snake and Ladder Game featuring automated gameplay. The game records the final results in the "game_final_result.log" file. Players input their names, and the dice rolls are automated to progress through the game. The final positions are determined considering the presence of snakes on the board. 
+To play the game, simply execute the "driver.java" file and await the exciting results!
